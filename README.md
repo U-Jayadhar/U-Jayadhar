@@ -1,2 +1,2 @@
 👋 Hi, I am **Jayadhar Ummadisingu**  
-👀 I have an interest in technology and find great joy in solving problems, and I enjoy learning, coding and crafting innovative applications.
+👀 A passionate tech enthusiast with a strong interest in Machine Learning 🤖, Web/App Development 🌐, and UI/UX design 🖌️. I love solving real-world problems through technology with fast learning and smart work as my strengths. Always eager to explore new ideas, meet new people, and discover new places, I thrive on continuous learning and innovation to make a positive impact
