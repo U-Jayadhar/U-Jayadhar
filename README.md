@@ -1,5 +1,5 @@
 <h1 align="left">నమస్తే 🙏, I'm Jayadhar Ummadisingu</h1>
-<h3 align="left">👀 A passionate tech enthusiast with a strong interest in Machine Learning 🤖, Web Development 🌐, and UI/UX design 🖌️. </h3>
+<h3 align="left">👀 A passionate tech enthusiast with a strong interest in Web Development 🌐, Machine Learning 🤖 and UI/UX design 🖌️. </h3>
 
 -⚡ Quote I Believe: **Better Late than Never!**
 
