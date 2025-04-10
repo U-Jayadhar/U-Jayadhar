@@ -11,6 +11,5 @@
 <a href="https://twitter.com/8jayadhar8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="8jayadhar8" height="30" width="40" /></a>
 <a href="https://instagram.com/_jayadhar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jayadhar_" height="30" width="40" /></a><br/><br/>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=U-Jayadhar&hide=asp,cmake,c%2B%2B,objective-c&langs_count=6&border_radius=16&layout=compact&size_weight=0.5&count_weight=0.5&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=U-Jayadhar&hide=asp,cmake,c%2B%2B,objective-c&langs_count=6&border_radius=16&layout=compact&theme=default&size_weight=0.5&count_weight=0.5#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=U-Jayadhar&theme=default&show_icons=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=U-Jayadhar&theme=dark&show_icons=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
