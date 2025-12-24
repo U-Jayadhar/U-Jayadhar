@@ -1,8 +1,8 @@
 <h1 align="left">నమస్తే 🙏, I'm Jayadhar Ummadisingu</h1>
 <h3 align="left">👀 A passionate tech enthusiast with a strong interest in Web Development 🌐, UI/UX design 🖌️ and Machine Learning 🤖. </h3>
 
-- 🪄**Better Late than Never!**
-- 💡**A Problem well stated is half Solved!**
+> 🪄**Better Late than Never!** <br>
+> 💡**A Problem well stated is half Solved!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
